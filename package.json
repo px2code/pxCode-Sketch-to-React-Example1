@@ -9,7 +9,7 @@
     "react-scripts": "3.0.1",
     "normalize.css": "^8.0.1",
     "aphrodite": "^2.3.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-app-polyfill": "^1.0.6"
   },
